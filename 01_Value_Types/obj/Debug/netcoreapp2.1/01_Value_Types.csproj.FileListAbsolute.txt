@@ -1,0 +1,11 @@
+C:\Users\A218014\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\01_Value_Types\bin\Debug\netcoreapp2.1\01_Value_Types.deps.json
+C:\Users\A218014\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\01_Value_Types\bin\Debug\netcoreapp2.1\01_Value_Types.runtimeconfig.json
+C:\Users\A218014\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\01_Value_Types\bin\Debug\netcoreapp2.1\01_Value_Types.runtimeconfig.dev.json
+C:\Users\A218014\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\01_Value_Types\bin\Debug\netcoreapp2.1\01_Value_Types.dll
+C:\Users\A218014\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\01_Value_Types\bin\Debug\netcoreapp2.1\01_Value_Types.pdb
+C:\Users\A218014\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\01_Value_Types\obj\Debug\netcoreapp2.1\01_Value_Types.csprojAssemblyReference.cache
+C:\Users\A218014\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\01_Value_Types\obj\Debug\netcoreapp2.1\01_Value_Types.csproj.CoreCompileInputs.cache
+C:\Users\A218014\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\01_Value_Types\obj\Debug\netcoreapp2.1\01_Value_Types.AssemblyInfoInputs.cache
+C:\Users\A218014\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\01_Value_Types\obj\Debug\netcoreapp2.1\01_Value_Types.AssemblyInfo.cs
+C:\Users\A218014\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\01_Value_Types\obj\Debug\netcoreapp2.1\01_Value_Types.dll
+C:\Users\A218014\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\01_Value_Types\obj\Debug\netcoreapp2.1\01_Value_Types.pdb
